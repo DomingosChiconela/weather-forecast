@@ -1,4 +1,4 @@
-const key ="18d5486b599ebbaf2c8ac1084b8d1491";
+const key ="coloque a sua chave de API ";
 
 
 //I need to add country
